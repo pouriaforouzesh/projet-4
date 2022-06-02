@@ -19,7 +19,7 @@ Visualisez la partition obtenue dans le premier plan factoriel de l'ACP, puis an
 Mission 3:
 Modélisez les données à l'aide d'une régression logistique. Grâce à celle-ci, vous créerez un programme capable d'effectuer une prédiction sur un billet, c'est-à-dire de déterminer s'il s'agit d'un vrai ou d'un faux billet. Pour chaque billet, votre algorithme de classification devra donner la probabilité que le billet soit vrai. Si cette probabilité est supérieure ou égale à 0.5, le billet sera considéré comme vrai. Dans le cas contraire, il sera considéré comme faux.
 
-Compétences évaluées
+Compétences évaluées:
 Réaliser une ACP,
 Utiliser un algorithme de clustering de type Kmeans,
 Modéliser grâce à la régression logistique,
